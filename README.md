@@ -98,7 +98,7 @@ For the low risk class:
 
 SMOTEENN is a two step process:
 1. First, use the SMOTE method to oversample the data
-2. Then, clean the resulting data. If the two nearest neighbors of a data point beling to different classes, drop that data point.
+2. Then, clean the resulting data. If the two nearest neighbors of a data point belong to different classes, drop that data point.
 
 The accuracy score of the logictic regression model using this resampling method was 62%:
 
