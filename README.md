@@ -56,7 +56,7 @@ Using the synthetic minority oversampling technique (SMOTE), new instanced are i
 
 The accuracy score of the logictic regression model using this resampling method was 65%:
 
-![accuracy score] (https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/SMOTE_Accuracy_Score.png)
+![accuracy score](https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/SMOTE_Accuracy_Score.png)
 
 Refer to the following classification report for the precision and recall scores for each classification:
 
@@ -78,7 +78,7 @@ Cluster centroid undersampling identifies clusters of the majority class, then g
 
 The accuracy score of the logictic regression model using this resampling method was 54%:
 
-![accuracy score] (https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/ClusterCentroids_Accuracy_Score.png)
+![accuracy score](https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/ClusterCentroids_Accuracy_Score.png)
 
 Refer to the following classification report for the precision and recall scores for each classification:
 
@@ -102,7 +102,7 @@ SMOTEENN is a two step process:
 
 The accuracy score of the logictic regression model using this resampling method was 62%:
 
-![accuracy score] (https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/SMOTEENN_Accuracy_Score.png)
+![accuracy score](https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/SMOTEENN_Accuracy_Score.png)
 
 Refer to the following classification report for the precision and recall scores for each classification:
 
@@ -122,7 +122,7 @@ For the low risk class:
 
 The accuracy score of this random forest classifier is 79%:
 
-![accuracy score] (https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/BRF_Accuracy_Score.png)
+![accuracy score](https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/BRF_Accuracy_Score.png)
 
 Refer to the following classification report for the precision and recall scores for each classification:
 
@@ -142,7 +142,7 @@ For the low risk class:
 
 The accuracy score of the easy ensemble classifier is 91%:
 
-![accuracy score] (https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/EEC_Accuracy_Score.png)
+![accuracy score](https://github.com/KW0114/Credit_Risk_Analysis/blob/3f0c348af68a3f63346a045747b7de596da6bfb5/Screenshots/EEC_Accuracy_Score.png)
 
 Refer to the following classification report for the precision and recall scores for each classification:
 
